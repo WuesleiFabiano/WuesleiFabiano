@@ -35,3 +35,5 @@
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Wueslei.fabiano@gmail.com)
 
 ---
+
+✨ *“Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke*
