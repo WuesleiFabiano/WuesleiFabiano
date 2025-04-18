@@ -32,8 +32,7 @@
 ## 🌐 Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wueslei-fabiano-8b0847308/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rauzes-8a4306255/)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Wueslei.fabiano@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wueslei.fabiano@gmail.com)
 
 ---
 
