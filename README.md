@@ -5,16 +5,11 @@
 
 ---
 
-Olá, eu sou [Seu Nome], um(a) desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Com [X anos] de experiência no desenvolvimento de software, tenho me especializado em [Tecnologias que você domina]. Além disso, sou apaixonado(a) por criar soluções que impactam positivamente o usuário e sempre busco aprender novas ferramentas, frameworks e boas práticas para melhorar minhas habilidades. Fora do mundo do código, você pode me encontrar [um hobby ou interesse pessoal, como "lendo sobre novas tendências em IA" ou "explorando novas cafeterias"].
-
----
-
 ## 🚀 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCPR
-- 
-- 💻 Experiência com projetos em front-end, back-end e banco de dados
+- 💻 Me especializando em Desenvolvimento Web e Fullstack
 - 🌍 Buscando minha primeira oportunidade como dev na área de desenvolvimento
-- 📚 Atualmente estudando: JavaScript, Node.js, React, Python e DSA
+- 📚 Atualmente estudando: HTML, CSS, Javascript e SQL
 
 ---
 
@@ -24,15 +19,20 @@ Olá, eu sou [Seu Nome], um(a) desenvolvedor(a) apaixonado(a) por tecnologia e i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
+
+---
+
+## ✨ Projetos em Destaque
+*(em breve)*
 
 ---
 
 ## 🌐 Conecte-se comigo!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://seuportfolio.com)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/wueslei-fabiano-8b0847308/))
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Wueslei.fabiano@gmail.com)
 
 ---
 
