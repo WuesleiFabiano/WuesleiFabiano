@@ -9,7 +9,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCPR
 - 💻 Me especializando em Desenvolvimento Web e Fullstack
 - 🌍 Buscando minha primeira oportunidade como dev na área de desenvolvimento
-- 📚 Atualmente estudando: HTML, CSS, Javascript e SQL
+- 📚 Atualmente estudando: HTML, CSS, Javascript, SQL e PHP
 
 ---
 
